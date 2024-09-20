@@ -26,4 +26,5 @@
 
 ### 6. **Related links**
 #### (1) [**Colab**](https://colab.google/)
+#### (2) [**Lil’Log**](https://lilianweng.github.io/)
 
