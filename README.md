@@ -1,6 +1,6 @@
 # LLM Study: From theory to implementation
 
-## Note: The recommended part is labeled with 🌟.
+## *Note: The recommended part is labeled with 🌟.*
 
 ### 1. **Programming**
 #### (1) [**LangChain**🌟🌟](https://python.langchain.com/docs/tutorials/)
