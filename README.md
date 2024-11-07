@@ -10,7 +10,7 @@
 #### (1) [OpenAI API](https://openai.com/index/openai-api/)
 #### (2) [Groq API🌟](https://console.groq.com/)
 
-### 3. (Optional) Local Deployment
+### 3. Local Deployment
 
 *A good computer is required to implement the local deployment. Let us consider the deployment based on the API key first.*
 
