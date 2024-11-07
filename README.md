@@ -9,7 +9,7 @@
 ### 2. Cloud Services (API Keys)
 #### (1) [OpenAI API](https://openai.com/index/openai-api/)
 #### (2) [Groq API🌟](https://console.groq.com/)
-#### (3) [Nvidia API](https://build.nvidia.com/meta) 
+#### (3) [Nvidia API](https://build.nvidia.com/meta)
 *Note: I have tried. The service is limited.*
 
 ### 3. Local Deployment
